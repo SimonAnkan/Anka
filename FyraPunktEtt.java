@@ -1,6 +1,8 @@
 import javax.swing.JOptionPane;
 /*
  * I uppgift 4.1 
+ * Ski Doo Summit
+ * 
  */
 public class FyraPunktEtt {
 
