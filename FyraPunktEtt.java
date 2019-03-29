@@ -3,7 +3,9 @@ import javax.swing.JOptionPane;
  * I uppgift 4.1 
  * Ski Doo Summit
  * 
+ * En intressant kommentar
  */
+
 public class FyraPunktEtt {
 
 	public static void main(String[] args) {
